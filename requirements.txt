@@ -1,0 +1,12 @@
+
+pyttsx3
+speechrecognition
+pyaudio
+PyQt5
+openai
+requests
+keyboard
+sounddevice
+sqlite3
+cryptography
+telepot
